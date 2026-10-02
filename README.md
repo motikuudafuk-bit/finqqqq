@@ -8,9 +8,9 @@
   Создаю чистые, адаптивные и продуманные пользовательские интерфейсы.
 </p>
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_юзернейм)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша_почта@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ваш-сайт.vercel.app)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/newnotesinmybook)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:motikuudafuk@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://claude.ai/artifact/M5bubxnAetbZjnQz8G3BVM)
 
 </div>
 
