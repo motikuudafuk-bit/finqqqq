@@ -32,10 +32,3 @@
 - 📐 **Подход:** пишу семантичный код, использую методологию БЭМ / модульные стили, слежу за адаптивностью под любые экраны.
 
 ---
-
-### 📊 GitHub Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_ГИХАБ_ЛОГИН&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ГИХАБ_ЛОГИН&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
-</div>
