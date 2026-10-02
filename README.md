@@ -24,40 +24,6 @@
 
 ---
 
-### 🚀 Избранные проекты
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Проект 1 — E-Commerce UI</h3>
-      <p align="center">
-        Адаптивный каталог товаров с фильтрацией, корзиной и темной темой.
-      </p>
-      <p align="center">
-        <b>Стек:</b> HTML5, SCSS, JavaScript (ES6+), Vite
-      </p>
-      <p align="center">
-        <a href="https://github.com/ваш-логин/проект-1"><b>Код</b></a> • 
-        <a href="https://ваш-логин.github.io/проект-1"><b>Live Demo</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Проект 2 — SaaS Landing Page</h3>
-      <p align="center">
-        Лендинг с интерактивными анимациями, аккордеонами и валидацией форм.
-      </p>
-      <p align="center">
-        <b>Стек:</b> React, Tailwind CSS, Framer Motion
-      </p>
-      <p align="center">
-        <a href="https://github.com/ваш-логин/проект-2"><b>Код</b></a> • 
-        <a href="https://ваш-логин.github.io/проект-2"><b>Live Demo</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### ⚡ Обо мне в цифрах и фактах
 
